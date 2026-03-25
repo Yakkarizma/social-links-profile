@@ -23,7 +23,7 @@ body{
 }
 
 .container{
-    background-color: var(--Grey-800);
+    background-color: var(--Grey-900);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -33,7 +33,59 @@ body{
 }
 
 .icerik{
-    background-color: var(--Grey-700);
+    background-color: var(--Grey-800);
     width: 450px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+}
 
+.profil-resmi img{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+.kisi-baslik{
+    color: var(--White);
+    margin-bottom: 10px;
+}
+
+.kisi-konum{
+    color: var(--Green);
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.kisi-yetenek{
+    color: var(--White);
+    margin-bottom: 20px;
+}
+
+.linkler{
+    background-color: var(--Grey-700);
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.linkler a{
+    color: var(--White);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.linkler:hover a{
+    color: var(--Grey-900);
+    cursor: pointer;
+}
+
+.linkler:hover{
+    background-color: var(--Green);
+    cursor: pointer;
+}
+
+@media(max-width:375px){
+    
 }
