@@ -21,8 +21,8 @@ This is a solution to the [Social Links Profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Yakkarizma/social-links-profile)
-- Live Site URL: [Add live site URL here](https://yakkarizma.github.io/social-links-profile/)
+- Solution URL: [https://github.com/Yakkarizma/social-links-profile]
+- Live Site URL: [https://yakkarizma.github.io/social-links-profile/]
 
 ### Built with
 
