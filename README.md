@@ -24,6 +24,8 @@ This is a solution to the [Social Links Profile challenge on Frontend Mentor](ht
 - Solution URL: [https://github.com/Yakkarizma/social-links-profile]
 - Live Site URL: [https://yakkarizma.github.io/social-links-profile/]
 
+## My process
+
 ### Built with
 
 - Semantic HTML5 markup
